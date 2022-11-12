@@ -1,0 +1,7 @@
+{
+  "name": "Tugas2",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
